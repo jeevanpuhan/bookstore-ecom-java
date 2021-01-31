@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:42:53 +0530] "GET / HTTP/1.1" 200 2850 http-bio-7777-exec-1 3788
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:42:53 +0530] "GET /css/style.css HTTP/1.1" 304 - http-bio-7777-exec-4 12
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:42:54 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-7777-exec-5 3
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:42:58 +0530] "GET /login.jsp HTTP/1.1" 200 3971 http-bio-7777-exec-6 11
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:00 +0530] "GET /register.jsp HTTP/1.1" 200 4383 http-bio-7777-exec-7 1011
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:39 +0530] "GET /login.jsp HTTP/1.1" 200 3971 http-bio-7777-exec-8 5
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "POST /login HTTP/1.1" 302 - http-bio-7777-exec-9 342
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "GET /admin.jsp HTTP/1.1" 200 8720 http-bio-7777-exec-9 141
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "GET /img/team.png HTTP/1.1" 304 - http-bio-7777-exec-9 5
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "GET /img/list.png HTTP/1.1" 304 - http-bio-7777-exec-10 4
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "GET /img/product.png HTTP/1.1" 304 - http-bio-7777-exec-10 2
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "GET /img/maths.png HTTP/1.1" 304 - http-bio-7777-exec-5 2
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:43:53 +0530] "GET /img/plus.png HTTP/1.1" 304 - http-bio-7777-exec-7 3
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:46:33 +0530] "GET /logout HTTP/1.1" 302 - http-bio-7777-exec-1 2
+0:0:0:0:0:0:0:1 - - [14/Jan/2021:13:46:33 +0530] "GET /login.jsp HTTP/1.1" 200 4273 http-bio-7777-exec-1 4
